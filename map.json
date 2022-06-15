@@ -409,6 +409,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"meetingName",
+                         "type":"string",
+                         "value":"coffee"
+                        }, 
+                        {
                          "name":"zoom_margin",
                          "type":"float",
                          "value":1
@@ -434,6 +439,11 @@
                          "name":"focusable",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"meetingName",
+                         "type":"string",
+                         "value":"daily"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -463,6 +473,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"meetingName",
+                         "type":"string",
+                         "value":"room-1"
+                        }, 
+                        {
                          "name":"zoom_margin",
                          "type":"float",
                          "value":1
@@ -490,6 +505,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"meetingName",
+                         "type":"string",
+                         "value":"room-3"
+                        }, 
+                        {
                          "name":"zoom_margin",
                          "type":"float",
                          "value":1
@@ -515,6 +535,11 @@
                          "name":"focusable",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"meetingName",
+                         "type":"string",
+                         "value":"room-2"
                         }, 
                         {
                          "name":"zoom_margin",
